@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "search-cep-rn",
+    "slug": "search-cep-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
