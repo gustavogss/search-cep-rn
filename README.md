@@ -1,5 +1,5 @@
 # Projeto Search CEP
-- Aplicativo Android e IOS que busca do endereço pelo CEP
+- Aplicativo Android e IOS que busca o endereço pelo CEP
 
 ## Tecnologias e ferramentas utilizadas :robot:
 - [React Native ](https://reactnative.dev/docs/environment-setup)
